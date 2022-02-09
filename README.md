@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YvesCooper
-- 👀 I’m interested in being a developer
+- 👀 I’m interested in being a data engineer
 - 🌱 I’m currently learning Java (and Python for class)
 - 💞️ I’m looking to collaborate on: nothing yet
 - 📫 How to reach me: on LinkedIn
